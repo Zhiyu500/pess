@@ -1,5 +1,5 @@
-
 <?php
+	// zhiyu
 	if(isset($_POST["btnUpdate"])){
 		$con=mysql_connect("localhost","zhiyu","password000");
 		

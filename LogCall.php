@@ -14,6 +14,7 @@
 	}
 </script>
 <?php
+	// zhiyu
 	if(isset($_POST['btnSubmit']))
 	{
 		$con=mysql_connect("localhost","zhiyu","password000");

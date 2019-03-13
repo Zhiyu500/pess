@@ -1,4 +1,5 @@
 <?php
+	// zhiyu
 	if(isset($_POST["btnSubmit"]))
 	{
 		// connect to database

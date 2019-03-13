@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 ul {
   list-style-type: none;
@@ -23,7 +26,9 @@ li a:hover {
   background-color: #111;
 }
 </style>
+</head>
 
+<body>
 <ul>
 <li><a class="active" href="#Police Emergency Service System">Police Emergency Service System</a></li>
 </ul>
@@ -33,3 +38,5 @@ li a:hover {
   <li><a href="#Sign In">Sign In</a></li>
   <li><a href="#Sign Out">Sign Out</a></li>
 </ul>
+</body>
+</html>
